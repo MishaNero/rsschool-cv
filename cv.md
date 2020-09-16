@@ -1,6 +1,6 @@
 1. **Mikhail Niarounia**
 
-2. [VK Михаил Неровня](https://https://vk.com/m.nerovnya), [email](rvana1@gmail.com), [Telegram](+375-44-734-46-47), 
+2. [VK Михаил Неровня](https://https://vk.com/m.nerovnya), [email](rvana1@gmail.com), **Telegram** +375-44-734-46-47
 
 3. 27 y.o. Live in Minsk, Belarus. My full-time profession since 2016 is a doctor - pathologist in Minsk state Pathologist bureu. My second profession is photographer. I shot in the night-clubs,  headshot studio portraits, foodphoto for the restaurants.  Since schooltime I like IT, even thought to came to BSUIR. I was studied basic python, html, css, played wish arduino just for fun, no real practice.  
 
