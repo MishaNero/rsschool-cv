@@ -26,3 +26,9 @@ document.getElementsByTagName("ul")[0].addEventListener("click", function(evt) {
   
   sidebar.addEventListener("transitionend", handleTransitionEnd);
 });
+
+
+var card = document.querySelector('.card');
+card.addEventListener( 'click', function() {
+  card.classList.toggle('is-flipped');
+});
